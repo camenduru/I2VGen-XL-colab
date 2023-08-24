@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/I2VGen-XL-colab/blob/main/I2VGen_XL_colab.ipynb) | I2VGen_XL_colab (Pro)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/I2VGen-XL-colab/blob/main/I2VGen_XL_colab.ipynb) | I2VGen_XL_colab (Pro 😭)
 
 ## Main Repo
 https://github.com/damo-vilab/videocomposer <br />
