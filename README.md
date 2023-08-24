@@ -9,8 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/I2VGen-XL-colab/blob/main/I2VGen_XL_colab.ipynb) | I2VGen_XL_colab
 
 ## Main Repo
-https://modelscope.cn/models/damo/Image-to-Video/summary
-https://modelscope.cn/models/damo/Video-to-Video/summary
+https://modelscope.cn/models/damo/Image-to-Video/summary <br />
+https://modelscope.cn/models/damo/Video-to-Video/summary <br />
 
 ## Paper
 
