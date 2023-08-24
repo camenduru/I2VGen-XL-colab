@@ -33,4 +33,6 @@ https://github.com/camenduru/I2VGen-XL-colab/assets/54370274/7f44e3d2-fd81-4480-
 
 https://github.com/camenduru/I2VGen-XL-colab/assets/54370274/f229a6a0-1e40-45cf-9ac8-817ad20aff9b
 
+## Special Thanks
 
+Thanks to [@TheHeroShep](https://twitter.com/TheHeroShep) ❤
