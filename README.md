@@ -10,6 +10,7 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/I2VGen-XL-colab/blob/main/I2VGen_XL_colab.ipynb) | I2VGen_XL_colab (Pro 😭 A100 ~35GB VRAM)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/I2VGen-XL-colab/blob/main/I2VGen_XL_Vid2Vid_colab.ipynb) | I2VGen_XL_Vid2Vid_colab (Pro 😭 <24GB VRAM)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/I2VGen-XL-colab/blob/main/I2VGen_XL_Img2Vid_colab.ipynb) | I2VGen_XL_Img2Vid_colab (Pro 😭 <24GB VRAM)
 
 ## Main Repo
 https://github.com/damo-vilab/videocomposer <br />
